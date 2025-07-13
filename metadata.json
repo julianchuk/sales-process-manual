@@ -1,0 +1,8 @@
+{
+  "name": "App Sales Process & Manual AI Assistant",
+  "description": "An interactive AI-powered App sales & manual  to help sales teams follow a proven prospecting and outreach system for the Blockchain Summit LATAM event. Features include dynamic script generation, message templates, and performance tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
